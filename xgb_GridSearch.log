@@ -1,0 +1,9 @@
+test_score:1990985.2500, train_score:2634086.9167, best_round:342, colsample_bytree:0.600000, max_depth:4.000000 
+test_score:1750332.8333, train_score:2611063.1667, best_round:342, colsample_bytree:0.600000, max_depth:5.000000 
+test_score:1494886.5833, train_score:2613619.7500, best_round:342, colsample_bytree:0.600000, max_depth:6.000000 
+test_score:1981193.6250, train_score:2630887.8333, best_round:342, colsample_bytree:0.800000, max_depth:4.000000 
+test_score:1740419.6667, train_score:2607650.0833, best_round:342, colsample_bytree:0.800000, max_depth:5.000000 
+test_score:1506484.1667, train_score:2599806.6667, best_round:322, colsample_bytree:0.800000, max_depth:6.000000 
+test_score:1976949.4583, train_score:2631994.0000, best_round:342, colsample_bytree:1.000000, max_depth:4.000000 
+test_score:1728657.2917, train_score:2610478.8333, best_round:342, colsample_bytree:1.000000, max_depth:5.000000 
+test_score:1466102.9583, train_score:2606941.3333, best_round:342, colsample_bytree:1.000000, max_depth:6.000000 
